@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: study-disruptor
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Think
+Implementation-Vendor-Id: com.study.disruptor.server
+Build-Jdk: 1.8.0_74
+Implementation-URL: http://projects.spring.io/spring-boot/study-rabbit
+ mq-master/stduy-disruptor-server/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

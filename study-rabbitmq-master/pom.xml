@@ -145,5 +145,6 @@
 	</build>
 	<modules>
 		<module>study-rabbitmq-server</module>
+		<module>stduy-disruptor-server</module>
 	</modules>
 </project>
